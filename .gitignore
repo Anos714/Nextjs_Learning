@@ -1,0 +1,33 @@
+# Personal/instruction files (not project source)
+agentInstruction.md
+learning-plan.md
+
+# dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# next.js
+.next/
+out/
+build/
+dist/
+
+# production
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# misc
+.DS_Store/
+*.pem
+.vercel/
+next-env.d.ts
